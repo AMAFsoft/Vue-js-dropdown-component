@@ -51,53 +51,53 @@ Replace ``path_to_your_components`` with the path where you put the *dropdown.vu
 ## Options 
 ### textColor
     
-    **Type** : String
+**Type** : String
 
-    **Default** : "text-white"
+**Default** : "text-white"
 
 ### shadow
-    
-    **Type** : Boolean
-    
-    **Default** : true
+
+**Type** : Boolean
+
+**Default** : true
 
 ### upperCase
-    
-    **Type** : Boolean
-    
-    **Default** : False
+
+**Type** : Boolean
+
+**Default** : False
 
 ### backgroundColor
-    
-    **Type** : String
-    
-    **Default** : "bg-gray-800"
+
+**Type** : String
+
+**Default** : "bg-gray-800"
 
 ### iconClacces
-    
-    **Type** : String
-    
-    **Default** : *Empty string*
+
+**Type** : String
+
+**Default** : *Empty string*
 
 
 ### iconW
-    
-    **Type** : Integer
-    
-    **Default** : 24
+
+**Type** : Integer
+
+**Default** : 24
 
 ### iconH
-    
-    **Type** : Integer
-    
-    **Default** : 24
+
+**Type** : Integer
+
+**Default** : 24
 
 
 ### hoverClasses
-    
-    **Type** : String
-    
-    **Default** : "hover:shadow-lg"
+
+**Type** : String
+
+**Default** : "hover:shadow-lg"
 
 
 ## Bonus

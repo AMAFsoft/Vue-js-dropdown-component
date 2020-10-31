@@ -9,13 +9,15 @@ Vuejs dropdown component using Tailwind css
 
 ## How to
 
-1. Installing proper.js
+Make sure that you have **tailwindcss** and **Unicon** dependencies installed in your project 
+
+### 1. Installing proper.js
 
 ``npm i -E popper.js@1.15.0``
 
-2. Copy dorpdown.vue file to your project folder
+### 2. Copy **dorpdown.vue** file to your project folder
 
-3. Example
+### 3. Example
 
 ```javascript
 

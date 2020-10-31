@@ -44,54 +44,54 @@ Vuejs dropdown component using Tailwind css
 
 ```
 
-Replace ``path_to_your_components`` with the where you put the *dropdown.vue* component file
+Replace ``path_to_your_components`` with the path where you put the *dropdown.vue* component file
 
 ## Options 
-- textColor
+### textColor
     
     **Type** : String
 
     **Default** : "text-white"
 
-- shadow
+### shadow
     
     **Type** : Boolean
     
     **Default** : true
 
-- upperCase
+### upperCase
     
     **Type** : Boolean
     
     **Default** : False
 
-- backgroundColor
+### backgroundColor
     
     **Type** : String
     
     **Default** : "bg-gray-800"
 
-- iconClacces
+### iconClacces
     
     **Type** : String
     
     **Default** : *Empty string*
 
 
-- iconW
+### iconW
     
     **Type** : Integer
     
     **Default** : 24
 
-- iconH
+### iconH
     
     **Type** : Integer
     
     **Default** : 24
 
 
-- hoverClasses
+### hoverClasses
     
     **Type** : String
     
